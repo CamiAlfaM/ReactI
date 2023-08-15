@@ -1,0 +1,19 @@
+.cards{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  text-align: center;
+ 
+}
+.header{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: green;
+}
+.footer{
+ text-align: center;
+ color: green;
+}
+
